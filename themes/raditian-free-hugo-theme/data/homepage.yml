@@ -13,7 +13,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "https://www.linkedin.com/in/ndcuong/"
 
   socialLinks:
     - icon: "linkedin"
@@ -88,7 +88,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "Senior DevOps Engineer / SRE with 6+ years working in a variety of environment, from mixed physical, virtual environment moving to cloud."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -101,15 +101,15 @@ experience:
   items:
     - title: "Sr. Site Reliability Engineering"
       company: "Trusting Social"
-      duration: "Feb 2011 - Sep 2019"
+      duration: "Feb 2021 - Present"
 
     - title: "Sr. DevOps Engineer"
       company: "Symphony Creative Solutions"
-      duration: "Apr 2010 - Jan 2011"
+      duration: "Apr 2019 - Jan 2020"
 
     - title: "DevOps Engineer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+      company: "TMA Solutions"
+      duration: "Jun 2017 - Mar 2019"
 
 # Client & Work
 client_and_work:
@@ -148,12 +148,12 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "EVO"
+      description: "EVO is a credit product combined by Masan with a partner bank, which integrates the loyalty function of WinMart, WinMart+. The total issued limit of EVO cards is up to VND 815 billion."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+        URL: "https://vnexpress.net/gan-ba-nghin-the-tin-dung-duoc-mo-trong-ba-phut-4460291.html"
       image:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
@@ -170,8 +170,8 @@ client_and_work:
         _2x: "img/works/swissfintech@2x.jpg"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "TrustVision"
+      description: "TrustVision is our best-in-class AI-driven computer vision technology. Provide an eKYC (Digital KYC) solution to promote financial inclusion and access"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"

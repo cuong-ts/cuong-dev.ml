@@ -31,6 +31,11 @@ theme = "raditian-free-hugo-theme"
   weight = 2
 
   [[menu.header]]
+  name = "Docs"
+  URL = "https://docs.cuong-dev.ml"
+  weight = 2
+
+  [[menu.header]]
   name = "Portfolio"
   URL = "#portfolio"
   weight = 3
